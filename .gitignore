@@ -1,0 +1,12 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+*.log
+
+# Cache
+node_modules/
+dist/
+.vscode/
